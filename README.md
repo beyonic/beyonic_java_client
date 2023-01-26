@@ -1,5 +1,5 @@
-# Beyonic Java Client Library
-The official Java library for interacting with [Beyonic](http://beyonic.com) API.
+# MFS Africa Portal Java Client Library
+The official Java library for interacting with [MFS Africa Portal](http://mfsafrica.com) API.
 Detailed description for interaction with the API can be found at [https://developer.mfsafrica.com/docs](https://developer.mfsafrica.com/docs).
 
 The client has the following dependencies.
@@ -11,7 +11,7 @@ The client has the following dependencies.
 
 These can be installed using gradle, maven or manually placing the files in your application folder.
 
-To get up and running, instantiate the client suing your API Key from your beyonic account.
+To get up and running, instantiate the client suing your API Key from your MFS Africa Portal account.
 ```java
 import com.beyonic.BeyonicClient;
 BeyonicClient client = new BeyonicClient("yourapikeyhere");
