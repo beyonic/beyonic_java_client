@@ -1,6 +1,6 @@
 # Beyonic Java Client Library
 The official Java library for interacting with [Beyonic](http://beyonic.com) API.
-Detailed description for interaction with the API can be found at [http://apidocs.beyonic.com](http://apidocs.beyonic.com).
+Detailed description for interaction with the API can be found at [https://developer.mfsafrica.com/docs](https://developer.mfsafrica.com/docs).
 
 The client has the following dependencies.
 
