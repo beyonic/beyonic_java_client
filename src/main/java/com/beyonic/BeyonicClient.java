@@ -28,7 +28,7 @@ import java.util.ArrayList;
 public class BeyonicClient {
     // TODO : Versions, Base endpoint, authentication, duplicate requests
     private static Retrofit retrofit;
-    private static final String BASE_URL = "https://app.beyonic.com/api/";
+    private static final String BASE_URL = "https://app.mfsafrica.com/api/";
     private String apiKey;
 
     public BeyonicClient(String apiKey) {
