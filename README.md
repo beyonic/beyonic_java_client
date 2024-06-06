@@ -1,5 +1,5 @@
-# Beyonic Java Client Library
-The official Java library for interacting with [Beyonic](http://beyonic.com) API.
+# Enterprise Portal Java Client Library
+The official Java library for interacting with [Onafriq](http://portal.onafriq.com) API.
 Detailed description for interaction with the API can be found at [https://developer.mfsafrica.com/docs](https://developer.mfsafrica.com/docs).
 
 The client has the following dependencies.
