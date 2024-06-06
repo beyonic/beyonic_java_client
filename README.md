@@ -1,6 +1,6 @@
 # Enterprise Portal Java Client Library
 The official Java library for interacting with [Onafriq](http://portal.onafriq.com) API.
-Detailed description for interaction with the API can be found at [https://developer.mfsafrica.com/docs](https://developer.mfsafrica.com/docs).
+Detailed description for interaction with the API can be found at [https://developers.onafriq.com/](https://developers.onafriq.com/).
 
 The client has the following dependencies.
 
